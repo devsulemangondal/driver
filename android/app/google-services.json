@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "902838754716",
+    "project_id": "food-delivery-f73eb",
+    "storage_bucket": "food-delivery-f73eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902838754716:android:72fbe82ce30e6b555d3c59",
+        "android_client_info": {
+          "package_name": "com.zelalefood.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902838754716-ig83b9e9e4q9v4rhp456tmdmnp4718h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zelalefood.customer",
+            "certificate_hash": "b8438c5bb4a5e6a337c5fd4f541a9ca5bb2befa5"
+          }
+        },
+        {
+          "client_id": "902838754716-kadegka51cq3uldr79tk2q7unihfhk3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zelalefood.customer",
+            "certificate_hash": "620fad05d020379e3c7aad41d36e1f5141cec995"
+          }
+        },
+        {
+          "client_id": "902838754716-uj2sopnebe5tkinh2hanavlbo1rj1l44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsRnPezxfUHG9vq-2SWOQXAGKvPRCBMbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902838754716-uj2sopnebe5tkinh2hanavlbo1rj1l44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902838754716:android:50aa4628813893d85d3c59",
+        "android_client_info": {
+          "package_name": "com.zezale.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902838754716-uj2sopnebe5tkinh2hanavlbo1rj1l44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsRnPezxfUHG9vq-2SWOQXAGKvPRCBMbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902838754716-uj2sopnebe5tkinh2hanavlbo1rj1l44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902838754716:android:e1d57bc6f31788cb5d3c59",
+        "android_client_info": {
+          "package_name": "com.zezalefood.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902838754716-6phs7nthuu7h56dns8tatp7kv30cl9ob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zezalefood.restaurant",
+            "certificate_hash": "620fad05d020379e3c7aad41d36e1f5141cec995"
+          }
+        },
+        {
+          "client_id": "902838754716-e79gjflnkots2j70aflcmlv8gagu1elo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zezalefood.restaurant",
+            "certificate_hash": "b8438c5bb4a5e6a337c5fd4f541a9ca5bb2befa5"
+          }
+        },
+        {
+          "client_id": "902838754716-uj2sopnebe5tkinh2hanavlbo1rj1l44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsRnPezxfUHG9vq-2SWOQXAGKvPRCBMbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902838754716-uj2sopnebe5tkinh2hanavlbo1rj1l44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
